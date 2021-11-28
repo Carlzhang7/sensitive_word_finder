@@ -7,8 +7,65 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "sensitive_word_finder/1.0.0": {
+        "dependencies": {
+          "CommandDotNet": "5.0.1",
+          "Serilog": "2.11.0-dev-01371",
+          "Serilog.Sinks.Console": "4.0.1",
+          "Serilog.Sinks.File": "5.0.1-dev-00947",
+          "Spectre.Console": "0.42.1-preview.0.21"
+        },
         "runtime": {
           "sensitive_word_finder.dll": {}
+        }
+      },
+      "CommandDotNet/5.0.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/net5.0/CommandDotNet.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Serilog/2.11.0-dev-01371": {
+        "runtime": {
+          "lib/net5.0/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.11.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.Console/4.0.1": {
+        "dependencies": {
+          "Serilog": "2.11.0-dev-01371"
+        },
+        "runtime": {
+          "lib/net5.0/Serilog.Sinks.Console.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "Serilog.Sinks.File/5.0.1-dev-00947": {
+        "dependencies": {
+          "Serilog": "2.11.0-dev-01371"
+        },
+        "runtime": {
+          "lib/net5.0/Serilog.Sinks.File.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      },
+      "Spectre.Console/0.42.1-preview.0.21": {
+        "runtime": {
+          "lib/net5.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.42.1.0"
+          }
         }
       }
     }
@@ -18,6 +75,48 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "CommandDotNet/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OX1awGtrM+sGnNXW0Y4L8XT2xgr7QniOqbEE39uLuADZBCYagvjeNYj78aFREzNxIOLhVn+rVt/tfU2SWNetUg==",
+      "path": "commanddotnet/5.0.1",
+      "hashPath": "commanddotnet.5.0.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Serilog/2.11.0-dev-01371": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zbC6ngX1oTIhvWVotRGZzRJNyfu+Qyij3j1JN1efIukvyn7nkmjT+FYpFxvD0nveUqugCrSmvnVe6sInx4oDqw==",
+      "path": "serilog/2.11.0-dev-01371",
+      "hashPath": "serilog.2.11.0-dev-01371.nupkg.sha512"
+    },
+    "Serilog.Sinks.Console/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-apLOvSJQLlIbKlbx+Y2UDHSP05kJsV7mou+fvJoRGs/iR+jC22r8cuFVMjjfVxz/AD4B2UCltFhE1naRLXwKNw==",
+      "path": "serilog.sinks.console/4.0.1",
+      "hashPath": "serilog.sinks.console.4.0.1.nupkg.sha512"
+    },
+    "Serilog.Sinks.File/5.0.1-dev-00947": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rCxuBUTC4v/Mawa2bCD0CkEODiCIJqQvxZfWmZb9O2W1hcZ77WCrNGw2nKnXCuSII4cuWip9QwWbn9wmLzS5sA==",
+      "path": "serilog.sinks.file/5.0.1-dev-00947",
+      "hashPath": "serilog.sinks.file.5.0.1-dev-00947.nupkg.sha512"
+    },
+    "Spectre.Console/0.42.1-preview.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1ux42XFUhIySDc1Za6KyMBR7NozKn7UBHQLLJLqVgtohRDE3uhVbEagVf+4f18V32WgEK8Nul0ZRIo6wlaAGfA==",
+      "path": "spectre.console/0.42.1-preview.0.21",
+      "hashPath": "spectre.console.0.42.1-preview.0.21.nupkg.sha512"
     }
   }
 }

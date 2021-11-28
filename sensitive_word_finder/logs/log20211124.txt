@@ -1,0 +1,18 @@
+2021-11-24 17:01:20.851 +08:00 [DBG] Creating transformBlock
+2021-11-24 17:01:20.945 +08:00 [DBG] Creating ConsoleBlock
+2021-11-24 17:01:20.945 +08:00 [DBG] Creating fileBlock
+2021-11-24 17:01:20.945 +08:00 [DBG] Creating broadcastBlock
+2021-11-24 17:01:20.946 +08:00 [DBG] Linking blocks
+2021-11-24 17:01:20.947 +08:00 [DBG] Creating consoleReadBlock
+2021-11-24 17:01:20.948 +08:00 [INF] Please input
+2021-11-24 17:01:56.451 +08:00 [INF] Input string: jdhfbdbf Hello World
+2021-11-24 17:01:56.464 +08:00 [INF] Processed string: jdhfbdbf Hello World
+2021-11-24 17:02:56.915 +08:00 [DBG] Creating transformBlock
+2021-11-24 17:02:57.004 +08:00 [DBG] Creating ConsoleBlock
+2021-11-24 17:02:57.004 +08:00 [DBG] Creating fileBlock
+2021-11-24 17:02:57.005 +08:00 [DBG] Creating broadcastBlock
+2021-11-24 17:02:57.005 +08:00 [DBG] Linking blocks
+2021-11-24 17:02:57.006 +08:00 [DBG] Creating consoleReadBlock
+2021-11-24 17:02:57.007 +08:00 [INF] Please input
+2021-11-24 17:05:12.729 +08:00 [INF] Input string: Hello world
+2021-11-24 17:05:12.740 +08:00 [INF] Processed string: Hello wangziyi

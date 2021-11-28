@@ -1,0 +1,15 @@
+2021-11-25 20:34:51.300 +08:00 [DBG] Creating transformBlock
+2021-11-25 20:34:51.393 +08:00 [DBG] Creating ConsoleBlock
+2021-11-25 20:34:51.393 +08:00 [DBG] Creating fileBlock
+2021-11-25 20:34:51.393 +08:00 [DBG] Creating broadcastBlock
+2021-11-25 20:34:51.394 +08:00 [DBG] Linking blocks
+2021-11-25 20:34:51.395 +08:00 [DBG] Creating consoleReadBlock
+2021-11-25 20:34:51.396 +08:00 [INF] Please input
+2021-11-25 20:34:54.611 +08:00 [INF] Input string: 1
+2021-11-25 20:34:54.622 +08:00 [INF] Processed string: 1
+2021-11-25 20:35:07.162 +08:00 [INF] Input string: dotnet run --project "c:\Users\Carl\Desktop\work\c#\sensitive_word_finder\sensitive_word_finder.csproj"
+2021-11-25 20:35:07.174 +08:00 [INF] Processed string: dotnet run --project "c:\Users\Carl\Desktop\work\c#\sensitive_word_finder\sensitive_word_finder.csproj"
+2021-11-25 20:35:29.578 +08:00 [INF] Input string: hfg
+2021-11-25 20:35:29.595 +08:00 [INF] Processed string: hfg
+2021-11-25 20:35:49.497 +08:00 [INF] Input string: dotnet run --project "c:\Users\Carl\Desktop\work\c#\sensitive_word_finder\sensitive_word_finder.csproj"
+2021-11-25 20:35:49.500 +08:00 [INF] Processed string: dotnet run --project "c:\Users\Carl\Desktop\work\c#\sensitive_word_finder\sensitive_word_finder.csproj"

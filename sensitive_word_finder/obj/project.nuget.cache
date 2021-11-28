@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ARi+6l2ssMq8uVSkdJugon6K9ZI/xnKhyR0kbaCW4SV8eBS/CDbDbz/0UPKtbak3V6nI/ST1I+xWQCcTuYEdnQ==",
+  "dgSpecHash": "IeAyutJkutjGwYCjX/vEwwPUTGW9Bd5rzOuI5eLX6imkP5yb0qx673n0KJgXki5Wcwxn/J3wmWZqdzMk4CSUsg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Carl\\sensitive_word_finder\\sensitive_word_finder.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Carl\\Desktop\\work\\c#\\sensitive_word_finder\\sensitive_word_finder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carl\\.nuget\\packages\\commanddotnet\\5.0.1\\commanddotnet.5.0.1.nupkg.sha512",
+    "C:\\Users\\Carl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Carl\\.nuget\\packages\\serilog\\2.11.0-dev-01371\\serilog.2.11.0-dev-01371.nupkg.sha512",
+    "C:\\Users\\Carl\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\Carl\\.nuget\\packages\\serilog.sinks.file\\5.0.1-dev-00947\\serilog.sinks.file.5.0.1-dev-00947.nupkg.sha512",
+    "C:\\Users\\Carl\\.nuget\\packages\\spectre.console\\0.42.1-preview.0.21\\spectre.console.0.42.1-preview.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

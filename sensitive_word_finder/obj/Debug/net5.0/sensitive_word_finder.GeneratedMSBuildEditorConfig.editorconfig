@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = sensitive_word_finder
-build_property.ProjectDir = c:\Users\Carl\sensitive_word_finder\
+build_property.ProjectDir = c:\Users\Carl\Desktop\work\c#\sensitive_word_finder\
